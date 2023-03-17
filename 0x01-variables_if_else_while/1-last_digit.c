@@ -4,7 +4,7 @@
 /**
  * main - Start from here
  *
- * Return 0 (Succsess)
+ * Return: 0 (Succsess)
  */
 int main(void)
 {
