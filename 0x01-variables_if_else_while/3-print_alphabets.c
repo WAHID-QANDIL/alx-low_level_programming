@@ -8,7 +8,7 @@ int main(void)
 {
 	int n = 97;
 
-	for (int i = n; i <= 122; i++)
+	while (n <= 122)
 	{
 		putchar(n);
 		n++;
