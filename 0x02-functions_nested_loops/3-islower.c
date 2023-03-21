@@ -1,8 +1,9 @@
 #include "main.h"
 /**
- * _islower - checking is lower aphabrtic or no
+ * _islower - check if lower alphaberic or not
  *
- * Return 1 if is lower and return 0 if it's not
+ * @c: is the parameter of fun islower
+ * Return: 1 if is return 0 if is not
  */
 int _islower(int c)
 {
