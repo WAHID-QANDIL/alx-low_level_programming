@@ -1,5 +1,6 @@
 # Singly linked lists :page_with_curl: 0x12-singly_linked_lists
 ## About this project:
+### [Wahid ali](https://github.com/WAHID-QANDIL/)
 In this project I learnt and practiced;
 - How to build and use linked lists
 - The difference between linked lists and arrays
