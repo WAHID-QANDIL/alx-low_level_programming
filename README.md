@@ -16,5 +16,5 @@
 * 224 0x0D. C - [Preprocessor](./0x0D-preprocessor) [Apr 17 23...Apr 18 23] - `100.0%`
 * 226 0x0F. C - [Function pointers](./0x0F-function_pointers) [Apr 19 23...Apr 20 23] - `200.0%`
 * 227 0x10. C - [Variadic functions](./0x10-variadic_functions) [Apr 20 23...Apr 21 23] - `100.0%`
-* 228 0x11. C - [printf](../printf) [Apr 21 25...Apr 26 28] - 199.82% 
+* 228 0x11. C - [printf](https://github.com/WAHID-QANDIL/printf) [Apr 21 25...Apr 26 28] - `199.82% 
 * 229 0x12. C - [Singly linked lists](./0x12-singly_linked_lists) [Apr 20 23...Apr 21 23] - `100.0%`
