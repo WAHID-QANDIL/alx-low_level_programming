@@ -1,4 +1,4 @@
-# alx-low_level_programming
+# alx-low_level_programming *
 Intro to C programming and low level 
 0x00-hello_world
 (Directory)
@@ -21,3 +21,4 @@ Fix the code in 2-largest_number.c so that it correctly prints out th…
 Write a function that prints the numbers, from 0 to 9, followed by a …
 4 days ago
 0x05-pointers_arrays_strings
+*
