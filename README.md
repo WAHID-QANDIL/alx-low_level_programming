@@ -1,5 +1,5 @@
 # Low-level programming & Algorithm - Hatching out
-* 212 0x00. C - Hello, World [Mar 16 23...Mar 17 23] - `200.0%`
+* 212 0x00. C - [Hello, World](./0x00-hello_world)[Mar 16 23...Mar 17 23] - `200.0%`
 * 213 0x01. C - Variables, if, else, while [Mar 17 23...Mar 18 23] - `200.0%`
 * 214 0x02. C - Functions, nested loops [Mar 21 23...Mar 22 23] - `100.0%`
 * 539 0x03. C - Debugging [Mar 21 23...Mar 24 23] - `100.0%`
