@@ -1,5 +1,5 @@
-# alx-low_level_programming *
-Intro to C programming and low level 
+# alx-low_level_programming 
+* Intro to C programming and low level 
 0x00-hello_world
 (Directory)
 Write a script that generates the assembly code (Intel syntax) of a C…
