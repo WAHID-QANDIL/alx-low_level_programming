@@ -32,4 +32,4 @@ function is executed.
 * [101-hello_holberton.asm](./101-hello_holberton.asm): 64-but assembly program
 that prints `Hello, Holberton` followed by a new line using only the
 `printf` function witout interrupts.
-`Auther`[Wahid ali](https://github.com/WAHID-QANDIL/)
+* `Auther`[Wahid ali](https://github.com/WAHID-QANDIL/)
