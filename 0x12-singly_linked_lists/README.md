@@ -1,5 +1,6 @@
 # Singly linked lists :page_with_curl: 0x12-singly_linked_lists
 ## About this project:
+### [Wahid ali](https://github.com/WAHID-QANDIL/)
 In this project I learnt and practiced;
 - How to build and use linked lists
 - The difference between linked lists and arrays
@@ -32,3 +33,4 @@ function is executed.
 * [101-hello_holberton.asm](./101-hello_holberton.asm): 64-but assembly program
 that prints `Hello, Holberton` followed by a new line using only the
 `printf` function witout interrupts.
+* **[Wahid ali](https://github.com/WAHID-QANDIL/)**
